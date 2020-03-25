@@ -4,7 +4,7 @@ Jorge:
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
     image: /img/people/jorge.jpeg
-    bio: Dr, Ing
+    bio: Dr. Ing.
 
 Pablo:
     display_name: "Pablo Soligo"
@@ -12,7 +12,7 @@ Pablo:
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
     image: /img/people/pablo.jpg
-    bio: M.Sc, Ing
+    bio: M.Sc. Ing.
     
 German:
     display_name: "German Merkel"
@@ -20,7 +20,7 @@ German:
     #github: profx
     role: postdoc
     image: /img/people/german.jpeg
-    bio: Estudiante 
+    bio: Estudiante
 
 Anibal:
     display_name: "Anibal Pose"
@@ -28,7 +28,7 @@ Anibal:
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
     image: /img/people/anibal.png
-    bio: Ing
+    bio: Ing.
 
     
         
