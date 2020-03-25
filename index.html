@@ -5,30 +5,29 @@ notitle: true
 
 # groups of columns of {roles: list, width: num, image: bool}
 role-tables:
-- - roles: [faculty, postdoc, staff]
+- - roles: [faculty]
     width: 4
     image: true
-  - roles: [grad]
+  - roles: [postdoc, collab]
     width: 8
     image: true
-- - roles: [collab, ugrad, ugrad-alum]
+- - roles: []
     width: 5
     image: false
-  - roles: [alum]
+  - roles: []
     width: 7
     image: false
-
 ---
 
 <div class="jumbotron">
     <p>
-        The <b>Awesome Research Group</b> at <b>Example U</b> does all sorts of
-        research. Here is a place where we tell you exactly what that is!
+        <b>Grupo de investigación y desarrollo de software aeroespacial</b> de la <b>Universidad Nacional de La Matanza</b>
+        <!--does all sorts of research. Here is a place where we tell you exactly what that is!-->
     </p>
 </div>
 
 <section>
-    <h2>News</h2>
+    <h2>Novedades</h2>
     <ul class="news list-unstyled">
         {% for post in site.posts limit: site.front_page_news %}
             {% include news-item.html item=post %}
@@ -44,7 +43,7 @@ role-tables:
 </section>
 
 <section>
-    <h2>Research</h2>
+    <h2>Investigación y Desarrollo</h2>
     <div class="card-columns">
         {% comment %}
         Sort the projects by date, putting those without dates last
@@ -60,7 +59,7 @@ role-tables:
 </section>
 
 <div id="people">
-    <h2>People</h2>
+    <h2>Equipo</h2>
     {% for role-table in page.role-tables %}
         <section class="people row justify-content-between">
             {% for role-column in role-table %}

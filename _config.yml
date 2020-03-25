@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: GIDSA - Grupo de Investigación y Desarrollo de Software Aeroespacial
+url: http://unlam.edu.ar
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,11 +12,11 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
   - key: faculty
-    name: Faculty
+    name: Docente Investigador
   - key: staff
     name: Staff
   - key: postdoc
-    name: Researchers
+    name: Alumno Investigador
   - key: grad
     name: Graduate Students
   - key: ugrad
@@ -24,7 +24,7 @@ roles:
   - key: ugrad-alum
     name: Past Undergraduate Students
   - key: collab
-    name: Collaborators
+    name: Colaborador
   - key: alum
     name: Alumni
 
@@ -41,13 +41,13 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: Home
+  - title: Inicio
     link: /
-  - title: People
+  - title: Equipo
     link: /#people
-  - title: Research
+  - title: Investigaciones
     link: /research.html
-  - title: Publications
+  - title: Publicaciones
     link: /publications.html
-  - title: Code
+  - title: Código
     link: /code.html

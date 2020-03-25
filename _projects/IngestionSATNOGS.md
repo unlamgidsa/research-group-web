@@ -1,24 +1,24 @@
 ---
-title: Logo Project
+title: Integración API Satnogs-UGS 
 
 notitle: true
 
 description: |
-  This project has a sweet logo!
+  Ingestión de datos crudos red satnogs
 
 people:
-  - storm
-  - grad-b
-  - ugrad-c
-
+  - Pablo
+  - German
+  - Jorge
 layout: project
-image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
-last-updated: 2017-04-11
+image: "../img/satnogs.png"
+#satnogs-groundstation.jpg
+last-updated: 2020-03-01
 ---
 
-Some preliminary text.
+Ingestión de datos crudos red satnogs.
 
-## header
+## Ingestión de datos crudos red satnogs
 
 Maecenas _scelerisque ut enim non convallis_. Mauris ut nisl vitae mi dictum
 mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
