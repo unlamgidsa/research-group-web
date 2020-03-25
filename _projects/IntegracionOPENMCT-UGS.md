@@ -13,7 +13,7 @@ people:
   
   
 layout: project
-image: "../img/nasaopenmct2.jpg"
+image: "/img/nasaopenmct2.jpg"
 #
 last-updated: 2020-03-01
 ---

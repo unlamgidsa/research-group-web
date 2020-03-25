@@ -12,7 +12,7 @@ people:
   
   
 layout: project
-image: "../img/timescale2.png"
+image: "/img/timescale2.png"
 #
 last-updated: 2020-03-01
 ---

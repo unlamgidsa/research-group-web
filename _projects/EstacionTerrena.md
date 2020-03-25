@@ -12,7 +12,7 @@ people:
   
   
 layout: project
-image: "../img/ET_Unlam.png"
+image: "/img/ET_Unlam.png"
 #
 last-updated: 2020-03-01
 ---

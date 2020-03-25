@@ -11,7 +11,7 @@ people:
   - German
   - Jorge
 layout: project
-image: "../img/satnogs.png"
+image: "/img/satnogs.png"
 #satnogs-groundstation.jpg
 last-updated: 2020-03-01
 ---

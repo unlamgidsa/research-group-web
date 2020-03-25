@@ -12,7 +12,7 @@ people:
   
   
 layout: project
-image: "../img/Hey_Machine_Learning_Logo.png"
+image: "/img/Hey_Machine_Learning_Logo.png"
 #
 last-updated: 2020-03-01
 ---
