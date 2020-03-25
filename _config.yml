@@ -1,5 +1,5 @@
 name: GIDSA - Grupo de Investigación y Desarrollo de Software Aeroespacial
-url: http://unlam.edu.ar
+url: 'https://unlamgidsa.github.io/research-group-web/'
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -32,7 +32,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: 'https://unlamgidsa.github.io/research-group-web/'
+base: ''
 
 # make pages for the _projects folder
 collections:
