@@ -21,7 +21,7 @@
                 <a href="{{ site.base }}/" class="">
                     <img src="{{ site.base }}/img/fulllogo.png"
                          
-                         alt="Awesome" id="logo" style="height:auto">
+                         alt="Awesome" id="logo" style="height: auto; width:200px">
                 </a>
 
                 <ul class="nav nav-pills justify-content-center">
@@ -52,7 +52,7 @@
             </div>
 
             {% if page.image %}
-                <img src="{{ page.image }}"
+                <img src="{{ site.base }}{{ page.image }}"
                      alt="{{ page.title }}"
                      style="max-width: 400px"
                      class="img-fluid mx-auto d-block mb-4"/>

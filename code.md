@@ -1,9 +1,6 @@
 ---
 layout: default
-title: Code
+title: Código
 ---
-This is an example of an additional page you could add to the site (and its navigation).
 
-If you like this template, find our group's other code here:
-
- * [uwsampa on GitHub](https://github.com/uwsampa/)
+ * [GIDSA en GitHub](https://github.com/unlamgidsa/)

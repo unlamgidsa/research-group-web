@@ -20,9 +20,5 @@ Ingestión de datos crudos red satnogs.
 
 ## Ingestión de datos crudos red satnogs
 
-Maecenas _scelerisque ut enim non convallis_. Mauris ut nisl vitae mi dictum
-mollis. Pellentesque iaculis lacinia nisl viverra laoreet. Integer ac lacus quis
-elit varius mollis et ultrices tortor. Aliquam id dolor cursus, sagittis arcu
-tincidunt, scelerisque nisi. Morbi scelerisque feugiat mi in faucibus. Maecenas
-suscipit aliquet est et efficitur. Nullam sed purus nec nulla placerat ultrices
-ac at ipsum. Mauris a imperdiet eros.
+Desarrollo de un adaptador que consuma datos crudos de telemetría de la red satnogs para alimentar el 
+UGS(UNLaM Ground Segment).
