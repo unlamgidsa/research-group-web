@@ -9,6 +9,7 @@ description: |
 
 people:
   - Anibal
+  - Jorge
   
   
 layout: project
