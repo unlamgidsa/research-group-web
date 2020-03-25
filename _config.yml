@@ -33,8 +33,8 @@ front_page_news: 8
 
 # Base pathname for links.
 
-base: 'research-group-web'
-baseurl: 'research-group-web'
+base: '/research-group-web'
+baseurl: '/research-group-web'
 #base:''
 
 # make pages for the _projects folder
