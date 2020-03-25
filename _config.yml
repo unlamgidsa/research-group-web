@@ -32,7 +32,8 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+
+base: 'research-group-web'
 baseurl: 'research-group-web'
 #base:''
 
