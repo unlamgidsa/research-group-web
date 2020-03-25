@@ -5,3 +5,6 @@ de la University of Washington (https://github.com/uwsampa/research-group-web).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
 
+Helper commands
+jekyll build
+cp -fR ./_site/* ./docs
