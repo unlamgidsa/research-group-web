@@ -2,7 +2,7 @@
 layout: post
 shortnews: true
 icon: newspaper-o
-image: '../img/satnogs_network.png'
+image: '/img/satnogs_network.png'
 image_style: "max-height: 100px;"
 #image_link: "https://en.wikipedia.org/wiki/X-Men"
 ---
