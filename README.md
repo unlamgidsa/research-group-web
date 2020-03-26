@@ -8,3 +8,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 Helper commands
 jekyll build
 cp -fR ./_site/* ./docs
+rm -r ./docs/docs/
