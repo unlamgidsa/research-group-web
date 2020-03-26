@@ -1,7 +1,7 @@
 Jorge:
     display_name: "Jorge Salvador Ierache"
     role: faculty
-    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "http://laboratorios.fi.uba.ar/lsi/cv-jorge-ierache.htm"
     #github: profx
     image: /img/people/jorge.jpeg
     bio: Dr. Ing.
@@ -9,7 +9,7 @@ Jorge:
 Pablo:
     display_name: "Pablo Soligo"
     role: faculty
-    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    webpage: "cvs/CVPabloSoligo.pdf"
     #github: profx
     image: /img/people/pablo.jpg
     bio: M.Sc. Ing.
