@@ -3,8 +3,8 @@ Jorge:
     role: faculty
     webpage: "http://laboratorios.fi.uba.ar/lsi/cv-jorge-ierache.htm"
     #github: profx
-    image: /img/people/jorge.jpeg
-    bio: Dr. Ing.
+    image: /img/people/jorge.png
+    bio: Dr.
 
 Pablo:
     display_name: "Pablo Soligo"
@@ -12,7 +12,7 @@ Pablo:
     webpage: "cvs/CVPabloSoligo.pdf"
     #github: profx
     image: /img/people/pablo.jpg
-    bio: M.Sc. Ing.
+    bio: Mg.Ing.
     
 German:
     display_name: "German Merkel"
