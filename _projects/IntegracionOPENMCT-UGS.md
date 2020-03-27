@@ -19,7 +19,7 @@ last-updated: 2020-03-01
 Integración UGS - Nasa OPENMCT
 
 ## Descripción
-Integración del Front-end de código abierto OPENMCT con el prototipo de segmento terreno
+Integración del Frontend de código abierto OPENMCT con el prototipo de segmento terreno
 multimision desarrollado inicialmente en la UNLaM como parte de la primera cohorte de la MDIAE. 
 ---
 
