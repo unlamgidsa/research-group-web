@@ -20,4 +20,4 @@ Ingestión de datos crudos red satnogs.
 
 ## Ingestión de datos crudos red satnogs
 
-Utilizando Celery y <a href="https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html">Celery-Beats</a> periodicamente se analizan las misiones incorporadas para obtener nueva información que alimente de datos las investigaciones. Los datos podrán ser visualizados por la comunidad mediante <a href="https://nasa.github.io/openmct/">NASA OPENMCT</a>
+Utilizando Celery y <a href="https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html">Celery-Beats</a> periodicamente se analizan las misiones incorporadas para obtener nueva información que alimente de datos las investigaciones. Los datos podrán ser visualizados por la comunidad mediante <a href="https://nasa.github.io/openmct/">NASA OPENMCT</a>.
