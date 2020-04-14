@@ -20,5 +20,4 @@ Ingestión de datos crudos red satnogs.
 
 ## Ingestión de datos crudos red satnogs
 
-Desarrollo de un adaptador que consuma datos crudos de telemetría de la red satnogs para alimentar el 
-UGS(UNLaM Ground Segment).
+Utilizando Celery y <a href="https://docs.celeryproject.org/en/latest/userguide/periodic-tasks.html">Celery-Beats</a> periodicamente se analizan las misiones incorporadas para obtener nueva información que alimente de datos las investigaciones. Los datos podrán ser visualizados por la comunidad mediante <a href="https://nasa.github.io/openmct/">NASA OPENMCT</a>
