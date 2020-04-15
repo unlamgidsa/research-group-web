@@ -4,8 +4,5 @@ Desarrollado a partir del "Research Group Web Site Template" publicado por el Co
 de la University of Washington (https://github.com/uwsampa/research-group-web).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License][license].
-
+#make serve
 Helper commands
-jekyll build
-cp -fR ./_site/* ./docs
-rm -r ./docs/docs/
