@@ -1,4 +1,5 @@
 # targets that aren't filenames
+#make serve to local test
 .PHONY: all clean deploy build serve
 
 all: build
