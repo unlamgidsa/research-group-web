@@ -1,7 +1,7 @@
 Jorge:
     display_name: "Jorge Salvador Ierache"
     role: faculty
-    webpage: "https://unlamgidsa.github.io/research-group-web/cvs/CVJorgeIerache.pdf"
+    webpage: "https://gidsa.unlam.edu.ar/cvs/CVJorgeIerache.pdf"
     #github: profx
     image: /img/people/jorge.png
     bio: Doctor.
@@ -9,7 +9,7 @@ Jorge:
 Pablo:
     display_name: "Pablo Soligo"
     role: faculty
-    webpage: "https://unlamgidsa.github.io/research-group-web/cvs/CVPabloSoligo.pdf"
+    webpage: "https://gidsa.unlam.edu.ar/cvs/CVPabloSoligo.pdf"
     #github: profx
     image: /img/people/pablo.jpg
     bio: Msc.En Desarrollos Informáticos de Aplicación Espacial. Ingeniero Informático.
