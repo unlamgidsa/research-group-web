@@ -4,15 +4,14 @@ Jorge:
     webpage: "https://gidsa.unlam.edu.ar/cvs/CVJorgeIerache.pdf"
     #github: profx
     image: /img/people/jorge.png
-    bio: Dr.
-
+    bio: Docente Investigador. Dr. en Ciencias Informáticas
 Pablo:
     display_name: "Pablo Soligo"
     role: faculty
     webpage: "https://gidsa.unlam.edu.ar/cvs/CVPabloSoligo.pdf"
     #github: profx
     image: /img/people/pablo.jpg
-    bio: Msc.Ing.
+    bio: Msc.En Desarrollos Informáticos de Aplicación Espacial. Ingeniero Informático.
     
 German:
     display_name: "German Merkel"
@@ -20,7 +19,7 @@ German:
     #github: profx
     role: postdoc
     image: /img/people/german.jpeg
-    bio: Estudiante.
+    bio: Estudiante de Ingeniería Informática.
 
 Anibal:
     display_name: "Anibal Pose"
@@ -28,7 +27,7 @@ Anibal:
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
     image: /img/people/anibal.png
-    bio: Ing.
+    bio: Ingeniero Electrónico.
 
     
         
