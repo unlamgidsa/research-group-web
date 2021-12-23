@@ -17,9 +17,33 @@ German:
     display_name: "German Merkel"
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
-    role: postdoc
+    role: alum
     image: /img/people/german.jpeg
     bio: Estudiante de Ingeniería Informática.
+
+PabloFerreira:
+    display_name: "Pablo Ferreira"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: alum
+    image: /img/people/pabloferreira.jpeg
+    bio: Estudiante de Ingeniería Informática.
+
+Santiago:
+    display_name: "Santiago Mansfeld"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: alum
+    image: /img/people/santiagomansfeld.jpeg
+    bio: Estudiante de Ingeniería Informática.
+
+PabloMartinez:
+    display_name: "Pablo Martinez"
+    role: collab
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    image: /img/people/pablomartinez.png
+    bio: Ingeniero Electrónico.
 
 Anibal:
     display_name: "Anibal Pose"
