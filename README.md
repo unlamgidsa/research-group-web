@@ -7,6 +7,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 #make ->solo compila el proyecto
 #make serve ->servidor local
+#pip install bibble
 #bibble ./bib/pubs.bib ./bib/publications.tmpl > _includes/pubs.html 
 
 Helper commands
