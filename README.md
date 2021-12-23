@@ -7,8 +7,10 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 
 #make ->solo compila el proyecto
 #make serve ->servidor local
-#pip install bibble
+#pip3 install bibble?
+#Ojo que da errores si el bib tiene cosas que no le gustan
 #bibble ./bib/pubs.bib ./bib/publications.tmpl > _includes/pubs.html 
+#bibble /home/pablo/git/research-group-web/bib/pubs.bib /home/pablo/git/research-group-web/bib/publications.tmpl > /home/pablo/git/research-group-web/_includes/pubs.html 
 
 Helper commands
 e
