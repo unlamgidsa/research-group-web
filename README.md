@@ -10,3 +10,4 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 In
 #bibble ./bib/pubs.bib ./bib/publications.tmpl > _includes/pubs.html 
 
 Helper commands
+e

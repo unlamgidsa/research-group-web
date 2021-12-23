@@ -13,30 +13,6 @@ Pablo:
     image: /img/people/pablo.jpg
     bio: Msc.En Desarrollos Informáticos de Aplicación Espacial. Ingeniero Informático.
     
-German:
-    display_name: "German Merkel"
-    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    #github: profx
-    role: alum
-    image: /img/people/german.jpeg
-    bio: Estudiante de Ingeniería Informática.
-
-PabloFerreira:
-    display_name: "Pablo Ferreira"
-    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    #github: profx
-    role: alum
-    image: /img/people/pabloferreira.jpeg
-    bio: Estudiante de Ingeniería Informática.
-
-Santiago:
-    display_name: "Santiago Mansfeld"
-    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    #github: profx
-    role: alum
-    image: /img/people/santiagomansfeld.jpeg
-    bio: Estudiante de Ingeniería Informática.
-
 PabloMartinez:
     display_name: "Pablo Martinez"
     role: collab
@@ -54,4 +30,30 @@ Anibal:
     bio: Ingeniero Electrónico.
 
     
+
+German:
+    display_name: "German Merkel"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: postdoc
+    image: /img/people/german.jpeg
+    bio: Estudiante de Ingeniería Informática.
+
+PabloFerreira:
+    display_name: "Pablo Ferreira"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: postdoc
+    image: /img/people/pabloferreira.png
+    bio: Estudiante de Ingeniería Informática.
+
+Santiago:
+    display_name: "Santiago Mansfeld"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: postdoc
+    image: /img/people/santiagomansfeld.png
+    bio: Estudiante de Ingeniería Informática.
+
+
         
