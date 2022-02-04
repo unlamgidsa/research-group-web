@@ -5,8 +5,14 @@ notitle: true
 description: Desarrollo de una estación terrena según los lineamientos de diseño de la red satnogs y la comunidad <a href="https://libre.space/">libre.space</a>. 
 
 people:
-  - Anibal
+  - Pablo
   - Jorge
+  - PabloMartinez
+  - German
+  - PabloFerreira
+  - Santiago
+  - Anibal
+  
   
   
 layout: project
