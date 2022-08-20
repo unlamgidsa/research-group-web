@@ -6,12 +6,10 @@ image: '/img/UNLaMGroundStation.jpg'
 image_style: "max-height: 200px;"
 #image_link: "https://en.wikipedia.org/wiki/X-Men"
 ---
-First step to close the cycle Engineering, from satellite to final applicacion. This week we had a success test of the new antenna. It was build in Argentina and works well with a Mini 70 amplifier. 
-Using gpredict, gqrx and GNU Radio (helped by <a href="https://github.com/daniestevez/gr-satellites">gr-satellites</a>) we downloaded the bugsat1 (TITA) beacon directly from satellite. Finally we decoded audio successfully.
-This is our first step to complete the cycle; from the satellite to final application,  <a href="https://ugs.unlam.edu.ar/#/browse/mine/demodash">Unlam Ground Segment</a>.   
-We also planing to create a <a href="https://satnogs.org/">SatNogs</a> ground station soon!.  
-
-This is the downloaded and decoded binary data:
+First step to close the cycle "Enginnering: from satellite to final application".
+This week we have successfully tested the new antenna which has been built in Argentina. It works well with a Mini 70 amplifier. We downloaded the BugSat1 (TITA) beacon, directly from the satellite, using gpredict, gqrx, and GNU Radio (helped by <a href="https://github.com/daniestevez/gr-satellites">gr-satellites</a>). Finally, we decoded audio as we expected.
+It was our first step to complete the cycle, from satellite to final application (<a href="https://ugs.unlam.edu.ar/#/browse/mine/demodash">Unlam Ground Segment</a>). Also, we are planning to create a SatNogs ground station soon!
+Here it is the downloaded and decoded binary data:
 
 ***********************************
 * MESSAGE DEBUG PRINT PDU VERBOSE *
