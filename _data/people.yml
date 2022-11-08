@@ -15,7 +15,7 @@ Pablo:
     
 PabloMartinez:
     display_name: "Pablo Martinez"
-    role: collab
+    role: faculty
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
     image: /img/people/pablomartinez.png
@@ -44,7 +44,7 @@ PabloFerreira:
     #webpage: "http://en.wikipedia.org/wiki/Professor_X"
     #github: profx
     role: postdoc
-    image: /img/people/pabloferreira.png
+    image: /img/people/PabloFerreira.jpeg
     bio: Estudiante de Ingeniería Informática.
 
 Santiago:
@@ -55,5 +55,29 @@ Santiago:
     image: /img/people/santiagomansfeld.png
     bio: Estudiante de Ingeniería Informática.
 
+CamilaForestiero:
+    display_name: "Camila Forestiero"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: postdoc
+    image: /img/people/CamilaForestiero.jpeg
+    bio: Estudiante de Ingeniería Informática.
 
+
+RocioFernandez:
+    display_name: "Rocio Fernandez"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: postdoc
+    image: /img/people/RocioFernandez.jpeg
+    bio: Estudiante de Ingeniería Informática.
+
+
+MatiasAgostino:
+    display_name: "Matías Agostino"
+    #webpage: "http://en.wikipedia.org/wiki/Professor_X"
+    #github: profx
+    role: postdoc
+    image: /img/people/MatiasAgostino.jpeg
+    bio: Estudiante de Ingeniería Informática.
         
